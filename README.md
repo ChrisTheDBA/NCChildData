@@ -4,3 +4,5 @@ A project to develop Data stories around NC Births data like http://www.nytimes.
 This article changes the story based on a persons location.
 
 There are additional data for previous years available at The Odum Institute http://arc.irss.unc.edu/dvn/dv/NCVITAL
+
+A sample data viz for this data - https://public.tableau.com/profile/chris.mathews#!/vizhome/FinalProject-II/BirthsinNorthCarolina
